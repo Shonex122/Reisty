@@ -1,0 +1,27 @@
+.sublink {
+  width: 50%;
+  margin-top: 70px;
+}
+
+.sub {
+  display: flex;
+  gap: 50px;
+  align-self: center;
+  align-items: center;
+  justify-content: start;
+}
+
+.sub li {
+  text-align: center;
+  list-style: none;
+  cursor: pointer;
+}
+
+.sub hr {
+  border: none;
+  width: 500px;
+  height: 3px;
+  border-radius: 10px;
+  background-color: grey;
+  margin-top: 3px;
+}
